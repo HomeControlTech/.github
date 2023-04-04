@@ -1,4 +1,4 @@
-![alt text]([https://homecontrol.tech/wp-content/uploads/2021/09/Logo_Homecontrol_Letras.png "HomeControl.tech](https://cdn.homecontrol.tech/wp-content/uploads/2023/03/logo_completo-e1677889923657.png) - Automatización del Hogar")
+![Automatización del Hogar]([https://homecontrol.tech/wp-content/uploads/2021/09/Logo_Homecontrol_Letras.png](https://cdn.homecontrol.tech/wp-content/uploads/2023/03/logo_completo-e1677889923657.png) - Automatización del Hogar")
 
 # Bienvenido a HomeControl.tech en Github!
 
